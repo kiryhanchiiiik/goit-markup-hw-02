@@ -34,7 +34,10 @@ ul {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.address .link:hover .address .link:focus {
+.address:hover {
+  color: #404bbf;
+}
+.address:focus {
   color: #404bbf;
 }
 .section1 {
@@ -95,4 +98,17 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+}
+.navigation {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.navigation:hover {
+  color: #404bbf;
+}
+.navigation:focus {
+  color: #404bbf;
 }
