@@ -14,7 +14,7 @@ body {
 ul {
   list-style-type: none;
 }
-.Contacts {
+.contacts {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -22,13 +22,13 @@ ul {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.Contacts:hover {
+.contacts:hover {
   color: #404bbf;
 }
-.Contacts:focus {
+.contacts:focus {
   color: #404bbf;
 }
-.Logo-type {
+.logo-type {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -37,7 +37,7 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.Logotype_2 {
+.logotype_2 {
   color: #2e2f42;
 }
 .section_1 {
@@ -84,7 +84,7 @@ ul {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.Team {
+.team {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -118,7 +118,7 @@ ul {
   text-align: center;
   color: #2e2f42;
 }
-.Portfolio {
+.portfolio {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -127,24 +127,25 @@ ul {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.Apps {
+.apps {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.AppsParagraph {
+.appsparagraph {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.Footer {
+.footer {
   background: #2e2f42;
 }
-.Logo-type-footer {
+.logo-type-footer {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -152,7 +153,7 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.Logotype_3_footer {
+.logotype_3_footer {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -166,4 +167,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+.img {
+  background-color: #ffffff;
 }
