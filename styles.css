@@ -43,7 +43,7 @@ ul {
 .logotype_2 {
   color: #2e2f42;
 }
-.section_1 {
+.sectionnumberone {
   background: #2e2f42;
 }
 .zagolovok {
@@ -156,7 +156,7 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logotype3footer {
+.spanlogotype {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
