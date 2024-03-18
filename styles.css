@@ -3,6 +3,9 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+.address {
+  font-style: normal;
+}
 .links {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -107,7 +110,7 @@ ul {
 .navigation:focus {
   color: #404bbf;
 }
-.section_3 {
+.sectionnumberthree {
   background: #f4f4fd;
 }
 .names {
@@ -153,7 +156,7 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logotype_3_footer {
+.logotype3footer {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -169,5 +172,8 @@ ul {
   color: #f4f4fd;
 }
 .img {
+  background-color: #ffffff;
+}
+.fon {
   background-color: #ffffff;
 }
