@@ -2,12 +2,15 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
+  font-size: 16px;
+}
+a {
+  text-decoration: none;
 }
 .address {
   font-style: normal;
 }
 .links {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -18,9 +21,6 @@ ul {
   list-style-type: none;
 }
 .contacts {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -47,8 +47,6 @@ ul {
   background: #2e2f42;
 }
 .zagolovok {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -57,12 +55,10 @@ ul {
 }
 .buttonn {
   font-weight: 500;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
-  font-family: "Roboto", sans-serif;
   cursor: pointer;
 }
 .buttonn:hover {
@@ -72,7 +68,6 @@ ul {
   background-color: #404bbf;
 }
 .achive {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -80,16 +75,10 @@ ul {
   color: #2e2f42;
 }
 .paragraf {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 .team {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -99,7 +88,6 @@ ul {
 }
 .navigation {
   font-weight: 500;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
@@ -122,7 +110,6 @@ ul {
   color: #2e2f42;
 }
 .portfolio {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -138,11 +125,8 @@ ul {
   color: #2e2f42;
 }
 .appsparagraph {
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 .footer {
   background: #2e2f42;
@@ -165,8 +149,6 @@ ul {
   color: #f4f4fd;
 }
 .paragraf_footer {
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
